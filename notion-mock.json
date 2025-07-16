@@ -1,0 +1,12 @@
+[
+  {
+    "Name": "AcmeAI",
+    "Industry": "AI",
+    "Notes": ["Met at Demo Day"]
+  },
+  {
+    "Name": "BetaHealth",
+    "Industry": "Healthcare",
+    "Notes": ["Intro call"]
+  }
+] 
